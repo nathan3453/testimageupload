@@ -1,7 +1,7 @@
 
 let base64img = null;
 let file = null;
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = '';
 const USERNAME = 'nathan3453';
 const REPO = 'testimageupload';
 const BRANCH = 'main';
