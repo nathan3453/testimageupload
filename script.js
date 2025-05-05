@@ -1,3 +1,4 @@
+import fetch from 'node-fetch';
 
 let base64img = null;
 let file = null;
